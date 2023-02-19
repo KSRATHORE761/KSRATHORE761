@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ks_rathore761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ks_rathore761" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kuldeep singh rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep singh rathore" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kuldeep-singh-rathore-772800a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep singh rathore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
