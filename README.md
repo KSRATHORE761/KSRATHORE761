@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rathore.kuldeep761@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1yiEkHAkMZypKOB-WBampDO0C0HaDAPb6/view)]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yiEkHAkMZypKOB-WBampDO0C0HaDAPb6/view]
 
 - ⚡ Fun fact **I think I am funny**
 
