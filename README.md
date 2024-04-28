@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@ks_rathore761" target="blank"><img src="https://img.shields.io/twitter/follow/@ks_rathore761?logo=twitter&style=for-the-badge" alt="@ks_rathore761" /></a> </p>
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **React,**
 
-- 💬 Ask me about **Asp.net, Angular, React**
+- 💬 Ask me about **Asp.net, React**
 
 - 📫 How to reach me **rathore.kuldeep761@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EyySGavv8CL2ECm1cJQ-rarBb9SzfAR5/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W9Z-Kd-j3eaobMoOzwA7Rpgq0WJtLYyL/view?usp=sharing]
 
 - ⚡ Fun fact **I think I am funny**
 
